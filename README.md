@@ -1,6 +1,5 @@
 ![header](https://github.com/ilyaslanang/ilyaslanang/blob/main/img/Daily%20News.png)
 
-Welcome to my GitHub portfolio! This repository serves as a showcase of my projects and contributions. Feel free to explore and learn more about my work.
 
 ## Table of Contents 🔥
 
